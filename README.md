@@ -1,1 +1,1 @@
-# Medical-bot-llm
+# RAG Based Question Answering LLM
